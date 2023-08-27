@@ -17,21 +17,19 @@ EduRater is an innovative web-based platform designed to bridge the information 
 
 EduRater offers a range of features to enhance your institute review experience. Follow these steps to maximize your engagement with the platform:
 
-- **Sign Up / Log In**: New users can easily create an EduRater account, while existing users can swiftly log in to their accounts.
+1. **Sign Up / Log In**: New users can easily create an EduRater account, while existing users can swiftly log in to their accounts.
 
-- **Sign Up / Log In**: New users can easily create an EduRater account, while existing users can swiftly log in to their accounts.
+2. **Create a Listing**: If you have already know about some institute, you can create a new listing. Provide detailed information about the institute, including location, and fee per year. Upload images of the institute.
 
-- **Create Reviews**: If you've had experience with an educational institute, contribute your review to help others. Provide details about your experience, ratings, and any tips you may have.
+3. **Browse Listing**: To explore institutes, browse the existing listings.
 
-- **Search and Filter**: Utilize search and filtering options to find reviews and information specific to the institutes you're interested in.
+4. **View Listings on Map**: Utilize the integrated Mapbox map to view the locations of listing institute. This feature helps you to know proper location of the institute.
 
-- **Institute Details**: Access comprehensive information about institutes, including courses offered, admission requirements, contact details, and more.
+5. **Provide Reviews**: After you've visited the location, take a moment to provide a review and rating. Your feedback will help other users to make decisions.
 
-- **Interactive Discussions**: Engage in meaningful discussions with other users through comments and replies on review pages.
+6. **Manage Your Listings**: As a user or owner, you can manage your listings by editing or deleting them as needed. Keep your listings up to date to ensure accurate information for others.
 
-- **User Profiles**: Create and customize your user profile to showcase your reviewed institutes, engagement history, and contributions.
-
-- **Data Security**: EduRater places a high emphasis on data security and privacy, ensuring your information is protected.
+7. **Data Security**: EduRater places a high emphasis on data security and privacy, ensuring your information is protected.
 
 ## Requirements
 
